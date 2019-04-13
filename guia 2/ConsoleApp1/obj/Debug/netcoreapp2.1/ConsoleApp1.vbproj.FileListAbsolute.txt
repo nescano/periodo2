@@ -1,0 +1,11 @@
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.vbprojAssemblyReference.cache
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.vb
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Cano\Desktop\tarea poo\guia 2\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
